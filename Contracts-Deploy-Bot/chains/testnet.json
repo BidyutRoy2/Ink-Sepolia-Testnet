@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ink Sepolia",
+    "rpcUrl": "https://rpc-qnd-sepolia.inkonchain.com",
+    "chainId": "763373",
+    "symbol": "ETH",
+    "explorer": "https://explorer-sepolia.inkonchain.com"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
