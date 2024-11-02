@@ -4,7 +4,7 @@
     "ethers": "^6.13.1",
     "prompt-sync": "^4.2.0"
   },
-  "name": "Story Iliad Network",
+  "name": "Ink-Sepolia",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
