@@ -1,4 +1,4 @@
-# Story Protocol Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Ink Sepolia Testnet Transactions & Contracts Deploy Bot by HiddenGem
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
@@ -11,12 +11,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Story-Protocol-Testnet-Bot.git
+git clone https://github.com/BidyutRoy2/Ink-Sepolia-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Story-Protocol-Testnet-Bot
+cd Ink-Sepolia-Testnet
 cd Transaction-Bot
 ```
 
@@ -48,7 +48,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Story-Protocol-Testnet-Bot
+cd Ink-Sepolia-Testnet
 cd Contracts-Deploy-Bot
 ```
 
