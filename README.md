@@ -10,6 +10,8 @@
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
+# How to Use Github CodeSpace Video Tutorial [CHECK HERE](https://t.me/AiHiddenGem/11701)
+
 ## Steps
 
 ### 2. Clone Repository
